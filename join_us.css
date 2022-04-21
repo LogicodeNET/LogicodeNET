@@ -1,0 +1,242 @@
+.mediaViewInfo {
+	--web-view-name: join_us;
+	--web-view-id: join_us;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: join_us;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.join_us_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1634px;
+	background-color: rgba(35,39,42,1);
+	overflow: hidden;
+	--web-view-name: join_us;
+	--web-view-id: join_us;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Group_11_lb_Class {
+	position: absolute;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_lc_Class {
+	fill: rgba(235,69,158,1);
+}
+.Rectangle_1_lc {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+.logo_small_icon_only_inverted_ld_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: discord_Team.html;
+	cursor: pointer;
+}
+.Home_le_Class {
+	left: 183px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Imprint_lf_Class {
+	left: 275px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: imprint.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Discord_lg_Class {
+	left: 380px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: partner.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Programs_lh_Class {
+	left: 491px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: programs.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_55_li_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_55_li {
+	position: absolute;
+	overflow: visible;
+	width: 1643px;
+	height: 180px;
+	left: 139px;
+	top: 257px;
+}
+.You_wanna_join_us_then_send_us_Class {
+	left: 358px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 1205px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_78_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 15px;
+	stroke-linejoin: bevel;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 1658px;
+	height: 714px;
+	left: 139px;
+	top: 613px;
+}
+.All_you_have_to_do_is_join_our_Class {
+	left: 257px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 1407px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_79_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 15px;
+	stroke-linejoin: bevel;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_79 {
+	position: absolute;
+	overflow: visible;
+	width: 1658px;
+	height: 149px;
+	left: 139px;
+	top: 1387px;
+}
+.See_you_on_our_Discord_and_Goo_Class {
+	left: 421px;
+	top: 1414px;
+	position: absolute;
+	overflow: visible;
+	width: 1079px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(235,69,158,1);
+}

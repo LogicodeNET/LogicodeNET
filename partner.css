@@ -1,0 +1,481 @@
+.mediaViewInfo {
+	--web-view-name: partner;
+	--web-view-id: partner;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: partner;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.partner_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1741px;
+	background-color: rgba(35,39,42,1);
+	overflow: hidden;
+	--web-view-name: partner;
+	--web-view-id: partner;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+.Rectangle_1_bi_Class {
+	fill: rgba(87,242,135,1);
+}
+.Rectangle_1_bi {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+.logo_small_icon_only_inverted_bj_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Home_bk_Class {
+	left: 183px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Imprint_bl_Class {
+	left: 275px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: imprint.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Discord_bm_Class {
+	left: 380px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Group_7_Class {
+	position: absolute;
+	width: 1500px;
+	height: 160px;
+	left: 210px;
+	top: 860px;
+	overflow: visible;
+}
+.Group_3_Class {
+	position: absolute;
+	width: 1500px;
+	height: 160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_2_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1500px;
+	height: 160px;
+	left: 0px;
+	top: 0px;
+}
+.partner_of_logicodenet_Class {
+	left: 538px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 532px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Group_5_Class {
+	position: absolute;
+	width: 1520px;
+	height: 160px;
+	left: 200px;
+	top: 1300px;
+	overflow: visible;
+}
+.Rectangle_2_bs_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_bs {
+	position: absolute;
+	overflow: visible;
+	width: 1520px;
+	height: 160px;
+	left: 0px;
+	top: 0px;
+}
+.n_506163fd899656bc871394f759a9_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 47px;
+	top: 26px;
+	overflow: visible;
+}
+.Fettige_Fritten_Class {
+	left: 239px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.Lucy_Cay_Class {
+	left: 1240px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.Group_4_Class {
+	position: absolute;
+	width: 1520px;
+	height: 160px;
+	left: 200px;
+	top: 1080px;
+	overflow: visible;
+}
+.Rectangle_2_bx_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_bx {
+	position: absolute;
+	overflow: visible;
+	width: 1520px;
+	height: 160px;
+	left: 0px;
+	top: 0px;
+}
+.n_506163fd899656bc871394f759a9_by_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 47px;
+	top: 26px;
+	overflow: visible;
+}
+.NoNaming_Class {
+	left: 239px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.Samuel_Englert_Class {
+	left: 1240px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.Group_8_Class {
+	position: absolute;
+	width: 1500px;
+	height: 180px;
+	left: 220px;
+	top: 620px;
+	overflow: visible;
+}
+.Rectangle_2_b_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_b {
+	position: absolute;
+	overflow: visible;
+	width: 1500px;
+	height: 180px;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 1s ease-in;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Group_6_Class {
+	position: absolute;
+	width: 1520px;
+	height: 160px;
+	left: 200px;
+	top: 1520px;
+	overflow: visible;
+}
+.Rectangle_2_ca_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_ca {
+	position: absolute;
+	overflow: visible;
+	width: 1520px;
+	height: 160px;
+	left: 0px;
+	top: 0px;
+}
+.n_506163fd899656bc871394f759a9_b_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 47px;
+	top: 26px;
+	overflow: visible;
+}
+.NoNaming_b_Class {
+	left: 239px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.Samuel_Englert_b_Class {
+	left: 1240px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.logo_small_icon_only_inverted_b_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 620px;
+	top: 890px;
+	overflow: visible;
+}
+.Rectangle_3_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1560px;
+	height: 300px;
+	left: 180px;
+	top: 270px;
+}
+.Imagine_a_place_where_even_the_Class {
+	left: 320px;
+	top: 340px;
+	position: absolute;
+	overflow: visible;
+	width: 1087px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.icon_clyde_white_RGB_Class {
+	position: absolute;
+	width: 240px;
+	height: 182px;
+	left: 1438px;
+	top: 329px;
+	overflow: visible;
+}
+.logo_small_icon_only_inverted_cc_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 280px;
+	top: 660px;
+	overflow: visible;
+}
+.Join_our_Discord_Server_for_mo_Class {
+	left: 442px;
+	top: 680px;
+	position: absolute;
+	overflow: visible;
+	width: 1199px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(35,39,42,1);
+}
+.Component_2__1_Class {
+	position: absolute;
+	width: 319.209px;
+	height: 19.502px;
+	left: 800.2px;
+	top: 748.195px;
+	overflow: visible;
+}
+.Path_2_Class {
+	fill: rgba(235,69,158,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 319.209px;
+	height: 19.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Programs_cg_Class {
+	left: 500px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: programs.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}

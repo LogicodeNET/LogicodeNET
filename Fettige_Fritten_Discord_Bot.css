@@ -1,0 +1,1882 @@
+.mediaViewInfo {
+	--web-view-name: Fettige Fritten Discord Bot;
+	--web-view-id: Fettige_Fritten_Discord_Bot;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Fettige_Fritten_Discord_Bot;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Fettige_Fritten_Discord_Bot_Class {
+	position: absolute;
+	width: 1920px;
+	height: 11828px;
+	background-color: rgba(35,39,42,1);
+	overflow: hidden;
+	--web-view-name: Fettige Fritten Discord Bot;
+	--web-view-id: Fettige_Fritten_Discord_Bot;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Path_6_df_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6_df {
+	overflow: visible;
+	position: absolute;
+	width: 456px;
+	height: 416px;
+	left: 288px;
+	top: 520px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_11_dg_Class {
+	position: absolute;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_dh_Class {
+	fill: rgba(87,242,135,1);
+}
+.Rectangle_1_dh {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+.logo_small_icon_only_inverted_di_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Home_dj_Class {
+	left: 183px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Imprint_dk_Class {
+	left: 275px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: imprint.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Discord_dl_Class {
+	left: 380px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: partner.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Programs_dm_Class {
+	left: 491px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: programs.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Path_3_dn_Class {
+	fill: rgba(87,242,135,1);
+}
+.Path_3_dn {
+	overflow: visible;
+	position: absolute;
+	width: 1608px;
+	height: 200px;
+	left: 156px;
+	top: 240px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Fettige_Fritten_Discord_Bot_do_Class {
+	left: 649px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 623px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Path_5_dp_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5_dp {
+	overflow: visible;
+	position: absolute;
+	width: 696px;
+	height: 192px;
+	left: 872px;
+	top: 632px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Invite_the_Discord_Bot_Class {
+	left: 965px;
+	top: 693px;
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(35,39,42,1);
+}
+.This_is_just_a__Discord_bot__w_Class {
+	left: 360px;
+	top: 552px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_4_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1392px;
+	height: 184px;
+	left: 294px;
+	top: 1684px;
+}
+.Moderation_-_Commands_Class {
+	left: 554px;
+	top: 1729px;
+	position: absolute;
+	overflow: visible;
+	width: 825px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_5_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 176px;
+	left: 294px;
+	top: 1983px;
+}
+.dm_Class {
+	left: 437px;
+	top: 2024px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_6_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 176px;
+	left: 966px;
+	top: 1983px;
+}
+.dm_the_user_of_you_choice_as_t_Class {
+	left: 1060px;
+	top: 1991px;
+	position: absolute;
+	overflow: visible;
+	width: 533px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_7_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 292px;
+	top: 2278px;
+}
+.kick_Class {
+	left: 437px;
+	top: 2348px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_8_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 966px;
+	top: 2278px;
+}
+.kicks_the_member__of_your_choi_Class {
+	left: 1076px;
+	top: 2308px;
+	position: absolute;
+	overflow: visible;
+	width: 501px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_9_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 294px;
+	top: 2588px;
+}
+.ban_Class {
+	left: 437px;
+	top: 2658px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_10_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 966px;
+	top: 2595px;
+}
+.bans_the_member__of_your_choic_Class {
+	left: 1080px;
+	top: 2618px;
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_11_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 288px;
+	top: 2898px;
+}
+.unban_Class {
+	left: 399px;
+	top: 2974px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_12_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 966px;
+	top: 2905px;
+}
+.unbans_the_member__of_your_cho_Class {
+	left: 1043px;
+	top: 2928px;
+	position: absolute;
+	overflow: visible;
+	width: 567px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_13_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 288px;
+	top: 3214px;
+}
+.lockdown_Class {
+	left: 351px;
+	top: 3284px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_14_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 956px;
+	top: 3215px;
+}
+.mutes_the_member__of_your_choi_Class {
+	left: 1049px;
+	top: 3244px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_15_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 288px;
+	top: 3524px;
+}
+.unlock_Class {
+	left: 394px;
+	top: 3594px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_16_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 956px;
+	top: 3531px;
+}
+.unmutes_the_member__of_your_ch_Class {
+	left: 1023px;
+	top: 3561px;
+	position: absolute;
+	overflow: visible;
+	width: 607px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_17_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 1392px;
+	height: 184px;
+	left: 270px;
+	top: 3981px;
+}
+.Calculator_-_Commands_Class {
+	left: 558px;
+	top: 4026px;
+	position: absolute;
+	overflow: visible;
+	width: 769px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_18_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 262px;
+	top: 4280px;
+}
+.add_Class {
+	left: 409px;
+	top: 4350px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_19_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 930px;
+	top: 4287px;
+}
+.this_will_add__two_numbers_Class {
+	left: 1096px;
+	top: 4317px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_20_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 262px;
+	top: 4590px;
+}
+.multiply_Class {
+	left: 344px;
+	top: 4660px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_21_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 930px;
+	top: 4597px;
+}
+.this_will_multiply_two_number__Class {
+	left: 1055px;
+	top: 4627px;
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_22_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 262px;
+	top: 4900px;
+}
+.divide_Class {
+	left: 375px;
+	top: 4970px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_23_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 930px;
+	top: 4907px;
+}
+.this_will_divide_two_number__Class {
+	left: 1086px;
+	top: 4937px;
+	position: absolute;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_24_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	height: 219px;
+	left: 262px;
+	top: 5210px;
+}
+.subtract_Class {
+	left: 346px;
+	top: 5280px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_25_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 930px;
+	top: 5217px;
+}
+.this_will_subtract_two_number__Class {
+	left: 1057px;
+	top: 5247px;
+	position: absolute;
+	overflow: visible;
+	width: 467px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_26_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 1392px;
+	height: 184px;
+	left: 234px;
+	top: 5638px;
+}
+.Games_-_Commands_Class {
+	left: 578px;
+	top: 5683px;
+	position: absolute;
+	overflow: visible;
+	width: 657px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_27_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 5979px;
+}
+.findimposter_Class {
+	left: 281px;
+	top: 6049px;
+	position: absolute;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_28_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 5979px;
+}
+.among_us_but_with_text_Class {
+	left: 1066px;
+	top: 6009px;
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_29_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 1392px;
+	height: 184px;
+	left: 234px;
+	top: 6331px;
+}
+.Misc_-_Commands_Class {
+	left: 612px;
+	top: 6376px;
+	position: absolute;
+	overflow: visible;
+	width: 589px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_30_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 6630px;
+}
+.wiki_Class {
+	left: 406px;
+	top: 6700px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_31_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 6630px;
+}
+.searches_for_a__Wikipedia_arti_Class {
+	left: 1010px;
+	top: 6660px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_32_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 6940px;
+}
+.emojis_Class {
+	left: 372px;
+	top: 7010px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_33_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 6940px;
+}
+.not_working_Class {
+	left: 1076px;
+	top: 7010px;
+	position: absolute;
+	overflow: visible;
+	width: 347px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_34_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 7252px;
+}
+.length_Class {
+	left: 373px;
+	top: 7322px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_35_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 7252px;
+}
+.Counts_length_of_the__folowing_Class {
+	left: 943px;
+	top: 7288px;
+	position: absolute;
+	overflow: visible;
+	width: 613px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_36_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 7562px;
+}
+.urban_Class {
+	left: 381px;
+	top: 7632px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_37_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 7562px;
+}
+.Searches_on_the__Urban_Diction_Class {
+	left: 1022px;
+	top: 7599px;
+	position: absolute;
+	overflow: visible;
+	width: 455px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_38_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 7872px;
+}
+.roles_Class {
+	left: 396px;
+	top: 7942px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_39_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 7872px;
+}
+.add_or_remove_roles_by_buttons_Class {
+	left: 1039px;
+	top: 7909px;
+	position: absolute;
+	overflow: visible;
+	width: 421px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_40_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_40 {
+	position: absolute;
+	overflow: visible;
+	width: 1392px;
+	height: 184px;
+	left: 234px;
+	top: 8184px;
+}
+.other_useful_-_Commands_Class {
+	left: 489px;
+	top: 8229px;
+	position: absolute;
+	overflow: visible;
+	width: 835px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_41_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_41 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 8480px;
+}
+.translate_Class {
+	left: 340px;
+	top: 8555px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_42_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 278px;
+	left: 889px;
+	top: 8450px;
+}
+.pass_you_destination__language_Class {
+	left: 1032px;
+	top: 8475px;
+	position: absolute;
+	overflow: visible;
+	width: 435px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_43_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 8797px;
+}
+.roles_fz_Class {
+	left: 396px;
+	top: 8867px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_44_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 8797px;
+}
+.add_or_remove_roles_by_buttons_f_Class {
+	left: 1039px;
+	top: 8834px;
+	position: absolute;
+	overflow: visible;
+	width: 421px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_45_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 1392px;
+	height: 184px;
+	left: 234px;
+	top: 9176px;
+}
+.user_-_commands_Class {
+	left: 624px;
+	top: 9221px;
+	position: absolute;
+	overflow: visible;
+	width: 565px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_46_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 9528px;
+}
+.avatar_Class {
+	left: 376px;
+	top: 9598px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_47_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 755px;
+	height: 219px;
+	left: 854px;
+	top: 9528px;
+}
+.the_Bot_will_reply_with_the_us_Class {
+	left: 914px;
+	top: 9565px;
+	position: absolute;
+	overflow: visible;
+	width: 671px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_48_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 9840px;
+}
+.userinfo_Class {
+	left: 348px;
+	top: 9910px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_49_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 891px;
+	height: 219px;
+	left: 735px;
+	top: 9840px;
+}
+.the_bot_will_reply_with_the_in_Class {
+	left: 764px;
+	top: 9883px;
+	position: absolute;
+	overflow: visible;
+	width: 835px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_50_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 1392px;
+	height: 184px;
+	left: 234px;
+	top: 10203px;
+}
+.Utilities_-_commands_Class {
+	left: 566px;
+	top: 10248px;
+	position: absolute;
+	overflow: visible;
+	width: 681px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_51_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 10504px;
+}
+.ping_Class {
+	left: 400px;
+	top: 10574px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_52_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 10504px;
+}
+.this_is_just_a__ping_command_Class {
+	left: 1054px;
+	top: 10541px;
+	position: absolute;
+	overflow: visible;
+	width: 391px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_53_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 219px;
+	left: 251px;
+	top: 10816px;
+}
+.setdelay_Class {
+	left: 347px;
+	top: 10886px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_54_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_54 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 219px;
+	left: 889px;
+	top: 10816px;
+}
+.this_just_activate_the_slow_mo_Class {
+	left: 1038px;
+	top: 10853px;
+	position: absolute;
+	overflow: visible;
+	width: 423px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_61_gm_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: bevel;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_61_gm {
+	position: absolute;
+	overflow: visible;
+	width: 893px;
+	height: 75px;
+	left: 471px;
+	top: 1132px;
+}
+.developed_by_LogicodeNET__Juli_gn_Class {
+	left: 503px;
+	top: 1150px;
+	position: absolute;
+	overflow: visible;
+	width: 821px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_62_go_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: bevel;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_62_go {
+	position: absolute;
+	overflow: visible;
+	width: 624px;
+	height: 75px;
+	left: 606px;
+	top: 1264px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: discord_Team.html;
+	cursor: pointer;
+}
+.redirect_to_LogicodeNET__Julia_gp_Class {
+	left: 661px;
+	top: 1282px;
+	position: absolute;
+	overflow: visible;
+	width: 515px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: discord_Team.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}

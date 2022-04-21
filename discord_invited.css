@@ -1,0 +1,2039 @@
+.mediaViewInfo {
+	--web-view-name: discord_team;
+	--web-view-id: discord_team;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: discord_team;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.discord_team_Class {
+	position: absolute;
+	width: 1920px;
+	height: 4170px;
+	background-color: rgba(35,39,42,1);
+	overflow: hidden;
+	--web-view-name: discord_team;
+	--web-view-id: discord_team;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Group_11_hf_Class {
+	position: absolute;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_hg_Class {
+	fill: rgba(235,69,158,1);
+}
+.Rectangle_1_hg {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+.logo_small_icon_only_inverted_hh_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+}
+.Home_hi_Class {
+	left: 183px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Imprint_hj_Class {
+	left: 275px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: imprint.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Discord_hk_Class {
+	left: 380px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: partner.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Programs_hl_Class {
+	left: 491px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: programs.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_55_hm_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_55_hm {
+	position: absolute;
+	overflow: visible;
+	width: 1643px;
+	height: 180px;
+	left: 139px;
+	top: 257px;
+}
+.This_is_our_LogicodeNET_Team_Class {
+	left: 539px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 843px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(235,69,158,1);
+}
+.Group_12_Class {
+	position: absolute;
+	width: 228px;
+	height: 342px;
+	left: 482px;
+	top: 529px;
+	overflow: visible;
+}
+.logo_small_icon_only_copy_Class {
+	position: absolute;
+	width: 181px;
+	height: 181px;
+	left: 24px;
+	top: 25px;
+	overflow: visible;
+}
+.LogicodeNET9742_Class {
+	left: 14px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.full_logo_white_RGB_Class {
+	position: absolute;
+	width: 82px;
+	height: 16px;
+	left: 73px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_63_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_64_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 772px;
+	top: 552px;
+}
+.Rectangle_65_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 955px;
+	top: 534px;
+}
+.Discord_Server_Class {
+	left: 979px;
+	top: 537px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.httpsdiscordioLogicodeNET_Class {
+	left: 891px;
+	top: 577px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_66_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_66 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 776px;
+	top: 661px;
+}
+.Rectangle_67_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 959px;
+	top: 643px;
+}
+.Website_Class {
+	left: 1016px;
+	top: 646px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.LogicodeNETde_Class {
+	left: 975px;
+	top: 686px;
+	position: absolute;
+	overflow: visible;
+	width: 167px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Group_13_Class {
+	position: absolute;
+	width: 228px;
+	height: 342px;
+	left: 482px;
+	top: 940px;
+	overflow: visible;
+}
+.logo_small_icon_only_copy_h_Class {
+	position: absolute;
+	width: 181px;
+	height: 181px;
+	left: 24px;
+	top: 25px;
+	overflow: visible;
+}
+.Ghost_Sam1908_Class {
+	left: 27px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.full_logo_white_RGB_h_Class {
+	position: absolute;
+	width: 82px;
+	height: 16px;
+	left: 73px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_63_h_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63_h {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_68_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 776px;
+	top: 958px;
+}
+.Rectangle_69_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 959px;
+	top: 940px;
+}
+.Discord_Server_h_Class {
+	left: 983px;
+	top: 943px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_70_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_70 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 776px;
+	top: 1071px;
+}
+.Rectangle_71_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_71 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 959px;
+	top: 1053px;
+}
+.Website_ib_Class {
+	left: 1016px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.httpswwwEnglert-Samuelde_Class {
+	left: 895px;
+	top: 1096px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.httpsdiscordioNoNaming_Class {
+	left: 906px;
+	top: 983px;
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_72_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_72 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 772px;
+	top: 771px;
+}
+.Rectangle_73_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 955px;
+	top: 753px;
+}
+.Role_Class {
+	left: 1031px;
+	top: 756px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Developer_Class {
+	left: 1001px;
+	top: 796px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_74_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 776px;
+	top: 1184px;
+}
+.Rectangle_75_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 959px;
+	top: 1166px;
+}
+.Role_ik_Class {
+	left: 1035px;
+	top: 1169px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Supporter_Class {
+	left: 1006px;
+	top: 1209px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_76_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 12px;
+	stroke-linejoin: bevel;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_76 {
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	height: 162px;
+	left: 775px;
+	top: 3660px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: join_us.html;
+	cursor: pointer;
+}
+.wanna_Join_the_Team_Class {
+	left: 916px;
+	top: 3695px;
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: join_us.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(235,69,158,1);
+}
+.Click_here_Class {
+	left: 998px;
+	top: 3735px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: join_us.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_77_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 3px;
+	left: 1235px;
+	top: 1742px;
+}
+.Group_14_Class {
+	position: absolute;
+	width: 228px;
+	height: 342px;
+	left: 483px;
+	top: 1353px;
+	overflow: visible;
+}
+.logo_small_icon_only_copy_ir_Class {
+	position: absolute;
+	width: 181px;
+	height: 181px;
+	left: 24px;
+	top: 25px;
+	overflow: visible;
+}
+.cookie_monster5387_Class {
+	left: 12px;
+	top: 239px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(235,69,158,1);
+}
+.full_logo_white_RGB_it_Class {
+	position: absolute;
+	width: 82px;
+	height: 16px;
+	left: 73px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_63_iu_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63_iu {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_80_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_80 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 1371px;
+}
+.Rectangle_81_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_81 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 1353px;
+}
+.Discord_Server_ix_Class {
+	left: 984px;
+	top: 1356px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_82_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_82 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 1484px;
+}
+.Rectangle_83_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_83 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 1466px;
+}
+.Website_i_Class {
+	left: 1017px;
+	top: 1469px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.he_dont_have_a_website_Class {
+	left: 937px;
+	top: 1509px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.He_not_would_like_to_make_this_Class {
+	left: 866px;
+	top: 1396px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_84_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_84 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 1597px;
+}
+.Rectangle_85_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_85 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 1579px;
+}
+.Role_i_Class {
+	left: 1036px;
+	top: 1582px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Supporter_i_Class {
+	left: 1007px;
+	top: 1622px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_86_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 3px;
+	left: 1235px;
+	top: 2174px;
+}
+.Group_15_Class {
+	position: absolute;
+	width: 228px;
+	height: 342px;
+	left: 483px;
+	top: 1785px;
+	overflow: visible;
+}
+.logo_small_icon_only_copy_i_Class {
+	position: absolute;
+	width: 181px;
+	height: 181px;
+	left: 24px;
+	top: 25px;
+	overflow: visible;
+}
+.mara_Jade8074_Class {
+	left: 29px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.full_logo_white_RGB_jb_Class {
+	position: absolute;
+	width: 82px;
+	height: 16px;
+	left: 73px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_63_jc_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63_jc {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_87_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_87 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 1803px;
+}
+.Rectangle_88_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_88 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 1785px;
+}
+.Discord_Server_jf_Class {
+	left: 984px;
+	top: 1788px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_89_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_89 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 1916px;
+}
+.Rectangle_90_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_90 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 1898px;
+}
+.Website_ji_Class {
+	left: 1017px;
+	top: 1901px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.She_doesnt_have_a_Website_Class {
+	left: 918px;
+	top: 1941px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.She_doesnt_own_a_Discord_Serve_Class {
+	left: 887px;
+	top: 1828px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_91_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_91 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 2029px;
+}
+.Rectangle_92_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_92 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 2011px;
+}
+.Role_jn_Class {
+	left: 1036px;
+	top: 2014px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Developer_jo_Class {
+	left: 1006px;
+	top: 2054px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_94_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_94 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 3px;
+	left: 1235px;
+	top: 2174px;
+}
+.Rectangle_95_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_95 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 3px;
+	left: 1235px;
+	top: 2606px;
+}
+.Group_16_Class {
+	position: absolute;
+	width: 228px;
+	height: 342px;
+	left: 483px;
+	top: 2217px;
+	overflow: visible;
+}
+.logo_small_icon_only_copy_js_Class {
+	position: absolute;
+	width: 181px;
+	height: 181px;
+	left: 24px;
+	top: 25px;
+	overflow: visible;
+}
+.brooklyn1487_Class {
+	left: 36px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.full_logo_white_RGB_ju_Class {
+	position: absolute;
+	width: 82px;
+	height: 16px;
+	left: 73px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_63_jv_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63_jv {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_96_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_96 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 2235px;
+}
+.Rectangle_97_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_97 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 2217px;
+}
+.Discord_Server_jy_Class {
+	left: 984px;
+	top: 2220px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_98_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_98 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 2348px;
+}
+.Rectangle_99_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_99 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 2330px;
+}
+.Website_j_Class {
+	left: 1017px;
+	top: 2333px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.She_doesnt_have_a_Website_j_Class {
+	left: 918px;
+	top: 2373px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.She_doesnt_own_a_Discord_Serve_j_Class {
+	left: 887px;
+	top: 2260px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_100_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_100 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 2461px;
+}
+.Rectangle_101_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_101 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 2443px;
+}
+.Role_j_Class {
+	left: 1036px;
+	top: 2446px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Developer_j_Class {
+	left: 1006px;
+	top: 2486px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_102_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_102 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 3px;
+	left: 1235px;
+	top: 3038px;
+}
+.Group_17_Class {
+	position: absolute;
+	width: 228px;
+	height: 342px;
+	left: 483px;
+	top: 2649px;
+	overflow: visible;
+}
+.logo_small_icon_only_copy_ka_Class {
+	position: absolute;
+	width: 181px;
+	height: 181px;
+	left: 24px;
+	top: 25px;
+	overflow: visible;
+}
+.Energy_Girl2987_Class {
+	left: 25px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.full_logo_white_RGB_kc_Class {
+	position: absolute;
+	width: 82px;
+	height: 16px;
+	left: 73px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_63_kd_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63_kd {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_103_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_103 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 2667px;
+}
+.Rectangle_104_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_104 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 2649px;
+}
+.Discord_Server_kg_Class {
+	left: 984px;
+	top: 2652px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_105_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_105 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 2780px;
+}
+.Rectangle_106_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_106 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 2762px;
+}
+.Website_kj_Class {
+	left: 1017px;
+	top: 2765px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.She_doesnt_have_a_Website_kk_Class {
+	left: 918px;
+	top: 2805px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.She_doesnt_own_a_Discord_Serve_kl_Class {
+	left: 887px;
+	top: 2692px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_107_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_107 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 2893px;
+}
+.Rectangle_108_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_108 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 2875px;
+}
+.Role_ko_Class {
+	left: 1036px;
+	top: 2878px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.supporter_Class {
+	left: 1008px;
+	top: 2918px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_109_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_109 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 3px;
+	left: 1235px;
+	top: 3038px;
+}
+.Rectangle_110_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_110 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 3px;
+	left: 1235px;
+	top: 3470px;
+}
+.Group_18_Class {
+	position: absolute;
+	width: 228px;
+	height: 342px;
+	left: 483px;
+	top: 3081px;
+	overflow: visible;
+}
+.logo_small_icon_only_copy_kt_Class {
+	position: absolute;
+	width: 181px;
+	height: 181px;
+	left: 24px;
+	top: 25px;
+	overflow: visible;
+}
+.fan_of_Elon_Musk2273_Class {
+	left: 17px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(235,69,158,1);
+}
+.full_logo_white_RGB_kv_Class {
+	position: absolute;
+	width: 82px;
+	height: 16px;
+	left: 73px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_63_kw_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63_kw {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 352px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_111_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_111 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 3099px;
+}
+.Rectangle_112_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_112 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 3081px;
+}
+.Discord_Server_kz_Class {
+	left: 984px;
+	top: 3084px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_113_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_113 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 3212px;
+}
+.Rectangle_114_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_114 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 3194px;
+}
+.Website_k_Class {
+	left: 1017px;
+	top: 3197px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.He_doesnt_have_a_Website_Class {
+	left: 923px;
+	top: 3237px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.He_doesnt_own_a_Discord_Server_Class {
+	left: 891px;
+	top: 3124px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_115_Class {
+	fill: transparent;
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_115 {
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 89px;
+	left: 777px;
+	top: 3325px;
+}
+.Rectangle_116_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_116 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 37px;
+	left: 960px;
+	top: 3307px;
+}
+.Role_k_Class {
+	left: 1036px;
+	top: 3310px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.supporter_k_Class {
+	left: 1008px;
+	top: 3350px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}

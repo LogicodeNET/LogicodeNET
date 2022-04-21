@@ -1,0 +1,317 @@
+.mediaViewInfo {
+	--web-view-name: Minecraft Clone;
+	--web-view-id: Minecraft_Clone;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Minecraft_Clone;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Minecraft_Clone_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1434px;
+	background-color: rgba(35,39,42,1);
+	overflow: hidden;
+	--web-view-name: Minecraft Clone;
+	--web-view-id: Minecraft_Clone;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.Path_6_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 456px;
+	height: 416px;
+	left: 288px;
+	top: 520px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_11_cx_Class {
+	position: absolute;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_cy_Class {
+	fill: rgba(87,242,135,1);
+}
+.Rectangle_1_cy {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+.logo_small_icon_only_inverted_cz_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Home_c_Class {
+	left: 183px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Imprint_c_Class {
+	left: 275px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: imprint.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Discord_c_Class {
+	left: 380px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: partner.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Programs_c_Class {
+	left: 491px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: programs.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Path_3_c_Class {
+	fill: rgba(87,242,135,1);
+}
+.Path_3_c {
+	overflow: visible;
+	position: absolute;
+	width: 1608px;
+	height: 200px;
+	left: 156px;
+	top: 240px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Minecraft_Clone_c_Class {
+	left: 772px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 377px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Path_5_Class {
+	fill: rgba(87,242,135,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 696px;
+	height: 192px;
+	left: 872px;
+	top: 632px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Download_Minecraft_Clone_Class {
+	left: 906px;
+	top: 693px;
+	position: absolute;
+	overflow: visible;
+	width: 631px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(35,39,42,1);
+}
+.This_is_just_a_litle__sample_M_Class {
+	left: 330px;
+	top: 552px;
+	position: absolute;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(35,39,42,1);
+}
+.Rectangle_61_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: bevel;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_61 {
+	position: absolute;
+	overflow: visible;
+	width: 893px;
+	height: 75px;
+	left: 519px;
+	top: 1100px;
+}
+.developed_by_LogicodeNET__Juli_Class {
+	left: 551px;
+	top: 1118px;
+	position: absolute;
+	overflow: visible;
+	width: 821px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
+.Rectangle_62_Class {
+	fill: rgba(35,39,42,1);
+	stroke: rgba(235,69,158,1);
+	stroke-width: 10px;
+	stroke-linejoin: bevel;
+	stroke-linecap: square;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 624px;
+	height: 75px;
+	left: 654px;
+	top: 1232px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: discord_Team.html;
+	cursor: pointer;
+}
+.redirect_to_LogicodeNET__Julia_Class {
+	left: 709px;
+	top: 1250px;
+	position: absolute;
+	overflow: visible;
+	width: 515px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: discord_Team.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(235,69,158,1);
+}
